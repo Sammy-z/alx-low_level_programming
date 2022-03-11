@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
+/**
  *main - entry point
- *print f
- *Return: 1 after program execution
+ *printf
+ *Return: return 1 after program execution
  */
 int main(void)
 {
