@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+
 /**
  * main - entry point
  *
  * return: renturn 0 (currect/success)
  */
+
 int main(void)
 {
 int n;
