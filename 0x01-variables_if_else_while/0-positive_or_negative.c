@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * return: renturn 0 (currect/success)
+ * return: return 0 (currect/success)
  */
 
 int main(void)
@@ -18,13 +18,16 @@ if (n == 0)
 {
 printf("%i is zero\n", n);
 }
+
 else if (n < 0)
 {
 printf("%i is negative\n", n);
 }
+
 else
 {
 printf("%i is positive\n", n);
 }
+
 return (0);
 }
