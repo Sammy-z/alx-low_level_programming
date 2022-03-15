@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * main - entry point
+ * main - Entry point
  *
  * return: return 0 (currect/success)
  */
@@ -14,6 +14,7 @@ int n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
+
 if (n == 0)
 {
 printf("%i is zero\n", n);
