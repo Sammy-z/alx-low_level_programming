@@ -20,7 +20,7 @@ else if (n % 10 == 0)
 {
 	printf("last digit of %i is %i and is equal to 0\n", n, n % 10);
 }
-else (n % 10 < 6)
+else
 {
 	printf("last digit of %i is %i and is less than 6 and not 0\n", n, n % 10);
 }
